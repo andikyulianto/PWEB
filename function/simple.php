@@ -5,5 +5,3 @@ function greeting() {
 
 greeting();
 ?>
-
-php
